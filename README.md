@@ -17,6 +17,6 @@ Usage
 ```
 
 ```bash
-	python router.py --data=citymapper-coding-test-graph.dat 876500321 1524235806
+	python router.py --data=citymapper-coding-test-graph.dat --start=876500321 --end=1524235806
 	2709
 ```
