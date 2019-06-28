@@ -1,4 +1,4 @@
-Citymapper Router
+Dijkstra Router
 ===============
 
 A simple script to read in nodes/edges and calculate the shortest route using Dijkstra's Algorithm. 
