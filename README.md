@@ -12,11 +12,11 @@ Usage
 -------
 
 ```bash
-	./run.sh citymapper-coding-test-graph.dat 876500321 1524235806
+	./run.sh graph.dat 876500321 1524235806
 	2709
 ```
 
 ```bash
-	python router.py --data=citymapper-coding-test-graph.dat --start=876500321 --end=1524235806
+	python router.py --data=graph.dat --start=876500321 --end=1524235806
 	2709
 ```
